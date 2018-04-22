@@ -1,0 +1,10 @@
+{
+  "simulation": "crud.crud",
+  "simulationId": "qqq",
+  "start": 1524333164885,
+  "description": "",
+  "scenarios": ["crud"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,197 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/target/test-classes
+compile options:
+8 items
+0 -> -encoding
+1 -> utf-8
+2 -> -target:jvm-1.8
+3 -> -deprecation
+4 -> -feature
+5 -> -unchecked
+6 -> -language:implicitConversions
+7 -> -language:postfixOps
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+1 items
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> /Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/target/test-classes/crud/crud.class
+binary dependencies:
+6 items
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> /Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-commons-2.3.1.jar
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> /Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-core-2.3.1.jar
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> /Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-http-2.3.1.jar
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> /Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-jdbc-2.3.1.jar
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> /Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/scala-library-2.12.3.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+1 items
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> crud.crud
+used names:
+95 items
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> ->
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> <init>
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> <refinement>
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> <repeated>
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> A
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> ActionBuilder
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Any
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> AnyRef
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> ArrowAssoc
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> B
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Body
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Class
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> ClassTag
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> DurationInt
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Exclude
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Expression
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> FiniteDuration
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> GatlingConfiguration
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Http
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> HttpProtocol
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> HttpProtocolBuilder
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> HttpRequestActionBuilder
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> HttpRequestBuilder
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> InjectionStep
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Int
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Map
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> NOT_FOR_USER_CODE
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> NonValidable
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Nothing
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> PopulationBuilder
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Predef
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Protocol
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> RampBuilder
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> RampInjection
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> RawFileBodies
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> RawFileBody
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> ScenarioBuilder
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> SetUp
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Simulation
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> String
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> StringCaster
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> T
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> Tuple2
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> TypeCaster
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> X
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> _$7
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> acceptEncodingHeader
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> acceptHeader
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> acceptLanguageHeader
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> apply
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> baseURL
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> body
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> builder
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> commons
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> concurrent
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> configuration
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> core
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> crud
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> duration
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> exec
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> gatling
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> get
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> headers
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> headers_0
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> headers_1
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> headers_2
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> headers_3
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> headers_5
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> http
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> httpProtocol
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> inferHtmlResources
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> inject
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> io
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> jdbc
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> materializeClassTag
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> over
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> package
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> patch
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> post
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> protocol
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> protocols
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> rampUsers
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> rawFileBodies
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> reflect
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> resources
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> scala
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> scenario
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> scn
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> seconds
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> setUp
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> stringToExpression
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> toActionBuilder
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> toHttpProtocol
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> userAgentHeader
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> util
+product stamps:
+1 items
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/target/test-classes/crud/crud.class -> lastModified(1524380199000)
+source stamps:
+1 items
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> hash(b6d9a6c7a6d5a2f76f84bc197a890f49e1a19980)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1513730554000)
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-commons-2.3.1.jar -> lastModified(1520344768000)
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-core-2.3.1.jar -> lastModified(1520344768000)
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-http-2.3.1.jar -> lastModified(1520344768000)
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-jdbc-2.3.1.jar -> lastModified(1520344768000)
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/scala-library-2.12.3.jar -> lastModified(1520344768000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Class
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-commons-2.3.1.jar -> io.gatling.commons.Exclude$
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-core-2.3.1.jar -> io.gatling.core.scenario.Simulation
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-http-2.3.1.jar -> io.gatling.http.request.builder.HttpRequestBuilder
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/gatling-jdbc-2.3.1.jar -> io.gatling.jdbc.Predef$
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/lib/scala-library-2.12.3.jar -> scala.reflect.package$
+internal apis:
+1 items
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLKFivAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAtc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwZtDqyHQACWhlYWRlcnNfMHNxAH4ADDo1l390AAZub3RpZnlzcQB+AAyAfLSddAAJcHJvdG9jb2xzc3EAfgAMJ0vNvnQABXNldFVwc3EAfgAMiGQfeXQABHdhaXRzcQB+AAy229u7dAANZGlzYWJsZVBhdXNlc3NxAH4ADCKUhiN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMlEeJxHQABmVxdWFsc3NxAH4ADJvy5Gt0AAloZWFkZXJzXzFzcQB+AAwHYzzkdAARZXhwb25lbnRpYWxQYXVzZXNzcQB+AAyOCkgtdAAMYXNJbnN0YW5jZU9mc3EAfgAMLMi8jHQACWhlYWRlcnNfM3NxAH4ADAP9ve10AAZiZWZvcmVzcQB+AAyaldKXdAAGcGFyYW1zc3EAfgAMLYHApHQABGNydWRzcQB+AAwVPM1TdAAMc3luY2hyb25pemVkc3EAfgAMGnGBuHQADSRpc0luc3RhbmNlT2ZzcQB+AAxImrMvdAANZXhlY3V0ZUJlZm9yZXNxAH4ADCEtNp10AAZwYXVzZXNzcQB+AAwyuDhrdAAMZXhlY3V0ZUFmdGVyc3EAfgAMXFdSGXQAA3NjbnNxAH4ADPJo9yV0AA5jb25zdGFudFBhdXNlc3NxAH4ADGPx3Xd0AAlub3RpZnlBbGxzcQB+AAyrRRyFdAAMaXNJbnN0YW5jZU9mc3EAfgAMA93HJ3QACWhlYWRlcnNfMnNxAH4ADFqsKwp0AAY8aW5pdD5zcQB+AAwV0OWMdAAFYWZ0ZXJzcQB+AAwr02S2dAAKYXNzZXJ0aW9uc3NxAH4ADBfFWzh0AAI9PXNxAH4ADN8dAyV0AAVjbG9uZXNxAH4ADKUIk550AAttYXhEdXJhdGlvbnNxAH4ADCBj9fl0AA11bmlmb3JtUGF1c2Vzc3EAfgAM/nO7ZnQACHRvU3RyaW5nc3EAfgAMSyCEqHQAAiE9c3EAfgAMtGfiMnQADGh0dHBQcm90b2NvbHNxAH4ADPeGFMt0AAloZWFkZXJzXzVzcQB+AAxd5JLZdAAIZ2V0Q2xhc3NzcQB+AAyFnzKRdAAIdGhyb3R0bGVzcQB+AAxzUxhPdAACbmVzcQB+AAzhbsondAAMY3VzdG9tUGF1c2Vzc3EAfgAM+DeElnQAAmVxc3EAfgAMQhPMOnQABVNldFVwc3EAfgAMnj9CkXQAAiMjc3EAfgAM4SZ9q3QACGZpbmFsaXplc3EAfgAMee5zEnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AcXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACWNydWQuY3J1ZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCJc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4AjnNxAH4AiXVxAH4AbAAAAABzcQB+AIl1cQB+AGwAAAAAc3EAfgCJdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCNdAAKU2ltdWxhdGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABXNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAACaW9zcQB+AKZ0AAdnYXRsaW5nc3EAfgCmdAAEY29yZXNxAH4ApnQACHNjZW5hcmlvc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKdzcQB+AJp0AAZPYmplY3RzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmdAAEamF2YXNxAH4ApnQABGxhbmdxAH4AsXNxAH4AmnQAA0FueXNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZ0AAVzY2FsYXEAfgCxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAEY3J1ZHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYuwjxZ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABZL1VzZXJzL2p1bGllbi9Eb2N1bWVudHMvUHJveWVjdG9zL0xhcmF2ZWwtVnVlLUZpcnN0LUNSVUQvdGVzdHMvQ2hhcmdlL3RhcmdldC90ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS22abHptWi92+EvBl6iQ9J4aGZgA==
+external apis:
+0 items
+source infos:
+1 items
+/Users/julien/Documents/Proyectos/Laravel-Vue-First-CRUD/tests/Charge/user-files/simulations/crud/crud.scala -> 
+AAAAAAAAAAA=
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYulTou11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy9qdWxpZW4vRG9jdW1lbnRzL1Byb3llY3Rvcy9MYXJhdmVsLVZ1ZS1GaXJzdC1DUlVEL3Rlc3RzL0NoYXJnZS90YXJnZXQvdGVzdC1jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYulV8gN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy9qdWxpZW4vRG9jdW1lbnRzL1Byb3llY3Rvcy9MYXJhdmVsLVZ1ZS1GaXJzdC1DUlVEL3Rlc3RzL0NoYXJnZS90YXJnZXQvdGVzdC1jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYulWf7J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy9qdWxpZW4vRG9jdW1lbnRzL1Byb3llY3Rvcy9MYXJhdmVsLVZ1ZS1GaXJzdC1DUlVEL3Rlc3RzL0NoYXJnZS90YXJnZXQvdGVzdC1jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYulh+Ht1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy9qdWxpZW4vRG9jdW1lbnRzL1Byb3llY3Rvcy9MYXJhdmVsLVZ1ZS1GaXJzdC1DUlVEL3Rlc3RzL0NoYXJnZS90YXJnZXQvdGVzdC1jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYuwc6px1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy9qdWxpZW4vRG9jdW1lbnRzL1Byb3llY3Rvcy9MYXJhdmVsLVZ1ZS1GaXJzdC1DUlVEL3Rlc3RzL0NoYXJnZS90YXJnZXQvdGVzdC1jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYuwecZ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy9qdWxpZW4vRG9jdW1lbnRzL1Byb3llY3Rvcy9MYXJhdmVsLVZ1ZS1GaXJzdC1DUlVEL3Rlc3RzL0NoYXJnZS90YXJnZXQvdGVzdC1jbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYuwidqN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy9qdWxpZW4vRG9jdW1lbnRzL1Byb3llY3Rvcy9MYXJhdmVsLVZ1ZS1GaXJzdC1DUlVEL3Rlc3RzL0NoYXJnZS90YXJnZXQvdGVzdC1jbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYuwjxZ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy9qdWxpZW4vRG9jdW1lbnRzL1Byb3llY3Rvcy9MYXJhdmVsLVZ1ZS1GaXJzdC1DUlVEL3Rlc3RzL0NoYXJnZS90YXJnZXQvdGVzdC1jbGFzc2VzdAABLw==
