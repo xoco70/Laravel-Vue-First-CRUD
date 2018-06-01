@@ -1,4 +1,11 @@
 version: 0.2
+env:
+  variables:
+    DB_HOST: "crud.cw0ndy8gkt1c.us-east-1.rds.amazonaws.com"
+    DB_DATABASE: "crud"
+    DB_USERNAME: "crud"
+    DB_PASSWORD: "crudcrud"
+    DB_PORT: "3306"
 phases:
   build:
     commands:
